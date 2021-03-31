@@ -9,4 +9,4 @@ Diseñador Web :ballot_box_with_check:
 Poeta :ballot_box_with_check:
 Pianista :ballot_box_with_check:
 
-> 2018-2021
+> Born-2021
