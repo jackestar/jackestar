@@ -24,14 +24,14 @@
 
 ## What i'm doing :grey_question:
 
-<p align="justify">I am developing various personal projects and studying electronics, control theory, computer science and artificial intelligence. Mainly I am developing an optimized Arduino to C++ transpiler and a series of tools through a web interface for calculations in the area of ​​electronics, as well as tools to optimize the workflow in archlinux</p>
+<p align="justify">I am developing various personal projects and studying electronics, control theory, computer science and artificial intelligence. Mainly I am developing an optimized Arduino to C++ transpiler and a series of tools through a web interface for calculations in the area of ​​electronics, as well as tools to optimize the workflow in ArchLinux</p>
 
 ## Softskills :fire:
 
 <p align="justify">Among my skills are the management of the Microsoft Office suite, Google Workspaces, management of various CAD and CAE tools, design programs, management of Linux and Windows operating systems, practical skills in the repair and maintenance of computer equipment and electronics, the management of Spanish and English languages</p>
 
-## About my proyects :star2:
+## About my projects :star2:
 
 <p align="justify">All my projects are hosted on my website where I present them</p>
 
-<a href="jackestar.netlify.app">Jackestar website</a>
+<a href="https://jackestar.netlify.app/">Jackestar website</a>
