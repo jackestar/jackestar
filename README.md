@@ -16,15 +16,15 @@
 <img src="./banners/rust.png"/>
 <img src="./banners/tensorflow.png"/>
 </div>
-<hr>
+<hr style="height: 3px" >
 
-## Who i am :grey_question:
+## Who am i :grey_question:
 
 <p align="justify">Hey 👋, I'm Jackestar, I'm passionate about electronics and computer science. I always try to find the most optimal solution to a problem and I love to exploit the potential of low-end hardware, meticulous in details and versatile in the face of any challenge.</p>
 
 ## What i'm doing :grey_question:
 
-<p align="justify">I am developing various personal projects and studying electronics, control theory, computer science and artificial intelligence. Mainly I am developing an optimized Arduino to C++ transpiler and a series of tools through a web interface for calculations in the area of ​​electronics, as well as tools to optimize the workflow in ArchLinux</p>
+<p align="justify">I am developing various personal projects and studying electronics, control theory, computer science and artificial intelligence. I am developing a series of tools through a web interface for calculations in the area of ​​electronics, as well as tools to optimize the workflow in ArchLinux</p>
 
 ## Softskills :fire:
 
@@ -32,6 +32,6 @@
 
 ## About my projects :star2:
 
-<p align="justify">All my projects are hosted on my website where I present them</p>
+<p align="justify">All my projects are hosted on my website</p>
 
-<a href="https://jackestar.netlify.app/">Jackestar website</a>
+<p align="center">Visit my <a href="https://jackestar.netlify.app/">Website</a> </p>
