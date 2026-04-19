@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="center">Who am i :grey_question: </h3>
+<h3 align="center">Who am i :star: </h3>
 
 <p align="justify">Hey 👋, I'm Jackestar, I'm passionate about electronics and computer science. I always try to find the most optimal solution to a problem and I love to exploit the potential of low-end hardware, meticulous in details and versatile in the face of any challenge.</p>
 
@@ -37,7 +37,7 @@
 
 <h3 align="center">Softskills :fire: </h3>
 
-<p align="justify">Among my skills are the management of the Microsoft Office suite, Google Workspaces, management of various CAD and CAE tools, design programs, management of Linux and Windows operating systems, practical skills in the repair and maintenance of computer equipment and electronics, the management of Spanish and English languages</p>
+<p align="justify">Among my skills are the management of the Microsoft Office suite, Google Workspaces, management of various CAD and CAE tools, design programs, management of Linux and Windows operating systems, practical skills in the repair and maintenance of computer equipment and electronics</p>
 
 <h3 align="center">About my projects :star2: </h3>
 
