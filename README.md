@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./logos/DarkBlue.png" width="100" alt="logo" title="Jackestar"/>
+<img src="./logos/simple.png" width="100" alt="logo" title="Jackestar"/>
 </div>
 <h3 align="center">✨Jackestar✨</h3>
 
-![line](banners/linea.png)
+<img src="./lines/line.svg"/>
 
 <p align="center"><b>Web Developer, Graphic Designer, Electronic Engineering Student, Linux lover</b></p>
 <div align="center">
@@ -19,10 +19,9 @@
 <img src="./banners/linux.png"/>
 <img src="./banners/python.png"/>
 <img src="./banners/rust.png"/>
-<img src="./banners/tensorflow.png"/>
 </div>
 <div align="center">
-<img src="./banners/lineb.png" width="550px" height="10px"/>
+<img src="./lines/line.svg"/>
 </div>
 
 <br>
@@ -45,7 +44,7 @@
 
 
 <div align="center">
-<img src="./banners/linec.png" width="550px" height="10px"/>
+<img src="./lines/line.svg"/>
 </div>
 
 <p align="center">Visit my <a href="https://jackestar.netlify.app/">Website</a> </p>
