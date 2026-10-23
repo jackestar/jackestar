@@ -6,6 +6,7 @@
 <div align="center">
 <img src="./lines/line.svg"/>
 </div>
+<br>
 
 <p align="center"><b>Electronic Engineer, Linux Power User, Web Developer, Graphic Designer</b></p>
 <div align="center">
@@ -22,6 +23,20 @@
 <img src="./banners/python.png"/>
 <img src="./banners/rust.png"/>
 </div>
+<br>
+<div align="center">
+<img src="./lines/line.svg"/>
+</div>
+<br>
+<h3 align="center">Microcontrollers</h3>
+pic16f877, 328p, attiny85, esp32, esp32s2, esp8266, stm32g431
+<h3 align="center">PLD</h3>
+EPF-10K20RC240, EPM240
+
+<h3 align="center">Web Frameworks</h3>
+
+Astro, vue, preact
+
 <br>
 <div align="center">
 <img src="./lines/line.svg"/>
