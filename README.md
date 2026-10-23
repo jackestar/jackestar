@@ -1,11 +1,14 @@
 <div align="center">
-<img src="./logos/DarkBlue.png" width="100" alt="logo" title="Jackestar"/>
+<img src="./logos/simple.png" width="100" alt="logo" title="Jackestar"/>
 </div>
-<h3 align="center">✨Jackestar✨</h3>
+<h3 align="center">Jackestar</h3>
 
-![line](banners/linea.png)
+<div align="center">
+<img src="./lines/line.svg"/>
+</div>
+<br>
 
-<p align="center"><b>Web Developer, Graphic Designer, Electronic Engineering Student, Linux lover</b></p>
+<p align="center"><b>Electronic Engineer, Linux Power User, Web Developer, Graphic Designer</b></p>
 <div align="center">
 <img src="./banners/arduino.png"/>
 <img src="./banners/bash.png"/>
@@ -19,33 +22,70 @@
 <img src="./banners/linux.png"/>
 <img src="./banners/python.png"/>
 <img src="./banners/rust.png"/>
-<img src="./banners/tensorflow.png"/>
 </div>
+<br>
 <div align="center">
-<img src="./banners/lineb.png" width="550px" height="10px"/>
+<img src="./lines/line.svg"/>
+</div>
+<br>
+
+<div align="center">
+
+▅▅▅▅▅▅<kbd> <br> Microcontrollers <br> </kbd>▅▅▅▅▅▅
+
+PIC:  <kbd>16F877</kbd>
+AVR:  <kbd>328P</kbd> <kbd>ATtiny85</kbd>
+ESP: <kbd>ESP32</kbd> <kbd>S2</kbd> <kbd>8266</kbd>
+STM32: <kbd>G431</kbd>
+
+▅▅▅▅▅▅<kbd> <br> FPGA / CPLD <br> </kbd>▅▅▅▅▅▅
+
+<kbd>EPF-10K20RC240</kbd>
+<kbd>EPM240</kbd>
+
+▅▅▅▅▅▅<kbd> <br> Web Stack <br> </kbd>▅▅▅▅▅▅
+
+<kbd>Astro</kbd>
+<kbd>Vue</kbd>
+<kbd>Preact</kbd>
+<kbd>Vitepress</kbd>
+<kbd>Supabase</kbd>
+<kbd>TS</kbd>
+
 </div>
 
 <br>
-
-<h3 align="center">Who am i :star: </h3>
-
-<p align="justify">Hey 👋, I'm Jackestar, I'm passionate about electronics and computer science. I always try to find the most optimal solution to a problem and I love to exploit the potential of low-end hardware, meticulous in details and versatile in the face of any challenge.</p>
-
-<h3 align="center">What i'm doing :grey_question: </h3>
-
-<p align="justify">I am developing various personal projects and studying electronics, control theory, computer science and artificial intelligence. I am developing a series of tools through a web interface for calculations in the area of ​​electronics, as well as tools to optimize the workflow in ArchLinux</p>
-
-<h3 align="center">Softskills :fire: </h3>
-
-<p align="justify">Among my skills are the management of the Microsoft Office suite, Google Workspaces, management of various CAD and CAE tools, design programs, management of Linux and Windows operating systems, practical skills in the repair and maintenance of computer equipment and electronics</p>
-
-<h3 align="center">About my projects :star2: </h3>
-
-<p align="justify">All my projects are hosted on my website</p>
-
-
 <div align="center">
-<img src="./banners/linec.png" width="550px" height="10px"/>
+<img src="./lines/line.svg"/>
 </div>
+
+<br>
+<br>
+
+<!--SIZE:START-->
+```text
+$ arm-none-eabi-size jackestar/*
+   text    data     bss     dec     hex filename
+2974736   26004       8 3000748  2dc9ac JavaScript
+ 120798       0       4  120802   1d7e2 C++
+ 102671     403       2  103076   192a4 Shell
+  54565   16593       9   71167   115ff HTML
+  65843       0       3   65846   10136 Python
+```
+<!--SIZE:END-->
+
+<!--DMESG:START-->
+```text
+$ dmesg | tail -n 8
+[     0.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat(PWA): refactor Report and main components to remove... (45e17b7)
+[  1022.000000] commit  BusinessFieldOperations/BusinessFieldOperations: style(PWA): Lint (ef5b8d2)
+[ 54654.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat(PWA): enhance report viewing by adding view keys to... (4d4f5eb)
+[127583.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat(i18n): full translation draft (319ec34)
+[129131.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat(PWA): fix view order and add highlight (c743573)
+[409969.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat: update README with development workflow instruction... (1bd374a)
+[413374.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat: add admin user management functions and update READ... (d6ce2d2)
+[413852.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat: add admin user management functions and update READ... (d6ce2d2)
+```
+<!--DMESG:END-->
 
 <p align="center">Visit my <a href="https://jackestar.netlify.app/">Website</a> </p>
