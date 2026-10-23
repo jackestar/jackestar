@@ -28,14 +28,22 @@
 <img src="./lines/line.svg"/>
 </div>
 <br>
-<h3 align="center">Microcontrollers</h3>
-pic16f877, 328p, attiny85, esp32, esp32s2, esp8266, stm32g431
-<h3 align="center">PLD</h3>
+
+<div align="center">
+
+<kbd> <br> Microcontrollers <br> </kbd>
+
+PIC: 16F877 · AVR: 328P, ATtiny85 · ESP: ESP32, S2, 8266 · STM32: G431
+
+<kbd> <br> FPGA / CPLD <br> </kbd>
+
 EPF-10K20RC240, EPM240
 
-<h3 align="center">Web Frameworks</h3>
+<kbd> <br> Web Frameworks <br> </kbd>
 
 Astro, vue, preact
+
+</div>
 
 <br>
 <div align="center">
@@ -44,4 +52,11 @@ Astro, vue, preact
 
 <br>
 <br>
+
+<!--SIZE:START-->
+<!--SIZE:END-->
+
+<!--DMESG:START-->
+<!--DMESG:END-->
+
 <p align="center">Visit my <a href="https://jackestar.netlify.app/">Website</a> </p>
