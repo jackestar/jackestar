@@ -31,17 +31,26 @@
 
 <div align="center">
 
-<kbd> <br> Microcontrollers <br> </kbd>
+▅▅▅▅▅▅<kbd> <br> Microcontrollers <br> </kbd>▅▅▅▅▅▅
 
-PIC: 16F877 · AVR: 328P, ATtiny85 · ESP: ESP32, S2, 8266 · STM32: G431
+PIC:  <kbd>16F877</kbd>
+AVR:  <kbd>328P</kbd> <kbd>ATtiny85</kbd>
+ESP: <kbd>ESP32</kbd> <kbd>S2</kbd> <kbd>8266</kbd>
+STM32: <kbd>G431</kbd>
 
-<kbd> <br> FPGA / CPLD <br> </kbd>
+▅▅▅▅▅▅<kbd> <br> FPGA / CPLD <br> </kbd>▅▅▅▅▅▅
 
-EPF-10K20RC240, EPM240
+<kbd>EPF-10K20RC240</kbd>
+<kbd>EPM240</kbd>
 
-<kbd> <br> Web Frameworks <br> </kbd>
+▅▅▅▅▅▅<kbd> <br> Web Stack <br> </kbd>▅▅▅▅▅▅
 
-Astro, vue, preact
+<kbd>Astro</kbd>
+<kbd>Vue</kbd>
+<kbd>Preact</kbd>
+<kbd>Vitepress</kbd>
+<kbd>Supabase</kbd>
+<kbd>TS</kbd>
 
 </div>
 
