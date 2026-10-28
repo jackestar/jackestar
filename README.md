@@ -77,14 +77,14 @@ $ arm-none-eabi-size jackestar/*
 <!--DMESG:START-->
 ```text
 $ dmesg | tail -n 8
-[     0.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat: add admin user management functions and update READ... (d6ce2d2)
-[   478.000000] commit  BusinessFieldOperations/BusinessFieldOperations: feat: add admin user management functions and update READ... (d6ce2d2)
-[104153.000000] pr      jackestar#1 opened: Develop
-[102667.000000] commit  jackestar: added 'arm-none-eabi-size' and 'dmesg' support (673ab76)
-[103808.000000] commit  jackestar: component? (919ccfe)
-[104410.000000] commit  jackestar: Merge pull request #1 from jackestar/develop (74b8112)
-[100390.000000] commit  jackestar: added experience (69cda56)
-[321227.000000] commit  JS-Blog: feat: updated gitignore (a51fc4c)
+[     0.000000] commit  jackestar: component? (919ccfe)
+[   602.000000] commit  jackestar: Merge pull request #1 from jackestar/develop (74b8112)
+[ -3418.000000] commit  jackestar: added experience (69cda56)
+[217419.000000] commit  JS-Blog: feat: updated gitignore (a51fc4c)
+[416505.000000] commit  ohmyarchinstall: base package draft (bf85e43)
+[417898.000000] commit  jackestar: Merge remote-tracking branch 'origin/develop' (7a6062c)
+[417168.000000] commit  jackestar: update actions (4390efa)
+[419142.000000] commit  jackestar: some assumptions fixed (039cddc)
 ```
 <!--DMESG:END-->
 
