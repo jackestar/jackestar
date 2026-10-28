@@ -68,11 +68,7 @@ $ arm-none-eabi-size jackestar/*
    text    data     bss     dec     hex filename
 2974736   26004       8 3000748  2dc9ac JavaScript
  120798       0       4  120802   1d7e2 C++
-<<<<<<< HEAD
- 102671     403       2  103076   192a4 Shell
-=======
  102671    1419       3  104093   1969d Shell
->>>>>>> origin/develop
   65843    8543       4   74390   12296 Python
   54565   16593       9   71167   115ff HTML
 ```
