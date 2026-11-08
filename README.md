@@ -77,14 +77,14 @@ $ arm-none-eabi-size jackestar/*
 <!--DMESG:START-->
 ```text
 $ dmesg | tail -n 8
-[     0.000000] commit  jackestar: component? (919ccfe)
-[   602.000000] commit  jackestar: Merge pull request #1 from jackestar/develop (74b8112)
-[ -3418.000000] commit  jackestar: added experience (69cda56)
-[217419.000000] commit  JS-Blog: feat: updated gitignore (a51fc4c)
-[416505.000000] commit  ohmyarchinstall: base package draft (bf85e43)
-[417898.000000] commit  jackestar: Merge remote-tracking branch 'origin/develop' (7a6062c)
-[417168.000000] commit  jackestar: update actions (4390efa)
-[419142.000000] commit  jackestar: some assumptions fixed (039cddc)
+[      0.000000] commit  JS-Blog: feat: updated gitignore (a51fc4c)
+[ 199086.000000] commit  ohmyarchinstall: base package draft (bf85e43)
+[ 200479.000000] commit  jackestar: Merge remote-tracking branch 'origin/develop' (7a6062c)
+[ 199749.000000] commit  jackestar: update actions (4390efa)
+[ 201723.000000] commit  jackestar: some assumptions fixed (039cddc)
+[1132885.000000] commit  JS-Blog: feat: added brand logo (75b500c)
+[1137778.000000] commit  JS-Blog: feat: added '$' on console code blocks (32803d2)
+[1140214.000000] commit  JS-Blog: add missing assets (027b3a9)
 ```
 <!--DMESG:END-->
 
