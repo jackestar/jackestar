@@ -77,14 +77,14 @@ $ arm-none-eabi-size jackestar/*
 <!--DMESG:START-->
 ```text
 $ dmesg | tail -n 8
-[     0.000000] commit  ohmyarchinstall: base package draft (bf85e43)
-[  1393.000000] commit  jackestar: Merge remote-tracking branch 'origin/develop' (7a6062c)
-[   663.000000] commit  jackestar: update actions (4390efa)
-[  2637.000000] commit  jackestar: some assumptions fixed (039cddc)
-[933799.000000] commit  JS-Blog: feat: added brand logo (75b500c)
-[938692.000000] commit  JS-Blog: feat: added '$' on console code blocks (32803d2)
-[941128.000000] commit  JS-Blog: add missing assets (027b3a9)
-[932003.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
+[     0.000000] commit  jackestar: update actions (4390efa)
+[  1974.000000] commit  jackestar: some assumptions fixed (039cddc)
+[933136.000000] commit  JS-Blog: feat: added brand logo (75b500c)
+[938029.000000] commit  JS-Blog: feat: added '$' on console code blocks (32803d2)
+[940465.000000] commit  JS-Blog: add missing assets (027b3a9)
+[931340.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
+[940083.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
+[964891.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
 ```
 <!--DMESG:END-->
 
