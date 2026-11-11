@@ -70,7 +70,7 @@ $ arm-none-eabi-size jackestar/*
  120798       0       4  120802   1d7e2 C++
  102671    1419       3  104093   1969d Shell
   65843    9430       4   75277   1260d Python
-  70195     963       9   71167   115ff HTML
+  54565   16593       9   71167   115ff HTML
 ```
 <!--SIZE:END-->
 
