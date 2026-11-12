@@ -77,14 +77,14 @@ $ arm-none-eabi-size jackestar/*
 <!--DMESG:START-->
 ```text
 $ dmesg | tail -n 8
-[     0.000000] commit  jackestar: some assumptions fixed (039cddc)
-[931162.000000] commit  JS-Blog: feat: added brand logo (75b500c)
-[936055.000000] commit  JS-Blog: feat: added '$' on console code blocks (32803d2)
-[938491.000000] commit  JS-Blog: add missing assets (027b3a9)
-[929366.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
-[938109.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
-[962917.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
-[972115.000000] commit  JS-Blog: fix: lint and add event type (b82d6c8)
+[     0.000000] commit  JS-Blog: feat: added brand logo (75b500c)
+[  4893.000000] commit  JS-Blog: feat: added '$' on console code blocks (32803d2)
+[  7329.000000] commit  JS-Blog: add missing assets (027b3a9)
+[ -1796.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
+[  6947.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
+[ 31755.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
+[ 40953.000000] commit  JS-Blog: fix: lint and add event type (b82d6c8)
+[289014.000000] commit  JS-Blog: feat: Moved sections and added links to hero (be3b05b)
 ```
 <!--DMESG:END-->
 
