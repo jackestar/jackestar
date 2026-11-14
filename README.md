@@ -77,14 +77,14 @@ $ arm-none-eabi-size jackestar/*
 <!--DMESG:START-->
 ```text
 $ dmesg | tail -n 8
-[     0.000000] commit  JS-Blog: feat: added '$' on console code blocks (32803d2)
-[  2436.000000] commit  JS-Blog: add missing assets (027b3a9)
-[ -6689.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
-[  2054.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
-[ 26862.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
-[ 36060.000000] commit  JS-Blog: fix: lint and add event type (b82d6c8)
-[284121.000000] commit  JS-Blog: feat: Moved sections and added links to hero (be3b05b)
-[338399.000000] commit  ESP01S-Kitchen: More Robust wifi config (0dfac1e)
+[     0.000000] commit  JS-Blog: add missing assets (027b3a9)
+[ -9125.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
+[  -382.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
+[ 24426.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
+[ 33624.000000] commit  JS-Blog: fix: lint and add event type (b82d6c8)
+[281685.000000] commit  JS-Blog: feat: Moved sections and added links to hero (be3b05b)
+[335963.000000] commit  ESP01S-Kitchen: More Robust wifi config (0dfac1e)
+[541708.000000] commit  TDA75610: update gitignore (76b8f69)
 ```
 <!--DMESG:END-->
 
