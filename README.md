@@ -66,11 +66,11 @@ STM32: <kbd>G431</kbd>
 ```text
 $ arm-none-eabi-size jackestar/*
    text    data     bss     dec     hex filename
-2974736   26004       8 3000748  2dc9ac JavaScript
- 120798       0       4  120802   1d7e2 C++
+2974736   35039       9 3009784  2decf8 JavaScript
+ 120798    9632       5  130435   1fd83 C++
  102671    1419       3  104093   1969d Shell
   65843    9430       4   75277   1260d Python
-  54565   16593       9   71167   115ff HTML
+      0   62310       1   62311    f367 Astro
 ```
 <!--SIZE:END-->
 
