@@ -77,14 +77,14 @@ $ arm-none-eabi-size jackestar/*
 <!--DMESG:START-->
 ```text
 $ dmesg | tail -n 8
-[     0.000000] commit  JS-Blog: feat: Update pnpm packages (Astro) (96dc148)
-[  8743.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
-[ 33551.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
-[ 42749.000000] commit  JS-Blog: fix: lint and add event type (b82d6c8)
-[290810.000000] commit  JS-Blog: feat: Moved sections and added links to hero (be3b05b)
-[345088.000000] commit  ESP01S-Kitchen: More Robust wifi config (0dfac1e)
-[550833.000000] commit  TDA75610: update gitignore (76b8f69)
-[551410.000000] commit  ESP01S-Kitchen: Added Mount holes (PCB), Date (Schematic) (68f1b7c)
+[     0.000000] commit  JS-Blog: fix: deafult/force to i18n (workaround), added missing la... (6c96441)
+[ 24808.000000] commit  JS-Blog: fix: typo, and some clean up (63ef274)
+[ 34006.000000] commit  JS-Blog: fix: lint and add event type (b82d6c8)
+[282067.000000] commit  JS-Blog: feat: Moved sections and added links to hero (be3b05b)
+[336345.000000] commit  ESP01S-Kitchen: More Robust wifi config (0dfac1e)
+[542090.000000] commit  TDA75610: update gitignore (76b8f69)
+[542667.000000] commit  ESP01S-Kitchen: Added Mount holes (PCB), Date (Schematic) (68f1b7c)
+[956206.000000] commit  kickstart.nvim: Base config (0255220)
 ```
 <!--DMESG:END-->
 
